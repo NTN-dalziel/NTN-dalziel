@@ -29,7 +29,7 @@
 
 - 📫 How to reach me: [Facebook - @dalziel04](https://www.facebook.com/dalziel04) , [Youtube - @Thanhnhan Nguyen](https://youtube.com/channel/UCbYsXJFqkzUHxbONkUsKc6Q)
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/JrtOffcial?style=social)](https://twitter.com/JrtOffcial)
+[![Twitter: imthepk](https://img.shields.io/twitter/follow/JrtOffcial?style=social)](https://twitter.com/Nguyễn Thành Nhân)
 [![GitHub iampawan](https://img.shields.io/github/followers/NTN-dalziel?label=follow&style=social)](https://github.com/NTN-dalziel)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedsakeel&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedsakeel" /> </p>
